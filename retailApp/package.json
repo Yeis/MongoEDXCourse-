@@ -1,0 +1,25 @@
+{
+"scripts":{
+    "test": "mocha test.js",
+    "watch": "gulp watch"
+    },
+ "Devdependencies":{
+   "mocha": "2.2.4",
+   "superagent": "2.3.0"
+ },
+ "dependencies":{
+   "mongoose": "4.0.3",
+   "express": "4.12.3",
+   "express-session" : "1.11.2",
+   "http-status": "0.1.8",
+   "wagner-core": "0.1.0",
+    "underscore": "1.5.2",
+    "body-parser": "1.12.4",
+    "mongodb": "2.0.35",
+    "passport": "0.2.2",
+    "passport-facebook": "2.0.0",
+     "stripe": "3.3.4"
+
+ }
+
+}
